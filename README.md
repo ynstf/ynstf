@@ -429,10 +429,7 @@ $ echo "type 'help' for more commands"
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ynstf&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynstf&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41" />
-
-<img src="https://streak-stats.demolab.com/?user=ynstf&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&sideNums=00FF41&dates=00FF41&stroke=0D1117" />
+<img src="./assets/metrics.svg" alt="Profile metrics" width="100%" />
 
 </div>
 
